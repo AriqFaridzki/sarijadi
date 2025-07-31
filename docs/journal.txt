@@ -1,0 +1,12 @@
+# Introduction
+This note is a keepsake of my journey making this project till the end, the note covers  
+problem and solution i had in this project. 
+
+
+## Problem Encountered
+
+PE01: 
+
+
+## Solution
+S01:

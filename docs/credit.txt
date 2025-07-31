@@ -1,0 +1,7 @@
+# Credits
+
+### **Thanks To**
+
+luffynas (https://github.com/luffynas)[luffynas] for providing ready to import database data region
+
+

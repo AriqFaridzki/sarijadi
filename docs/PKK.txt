@@ -1,0 +1,30 @@
+pkk_individu
+- noRegistrasi (PRI)
+- individu (f key)
+- enumAkseptorKb (bool)
+- IkutProgramBKB (true,false)
+- enumPunyaTabungan (true,false)
+- jenis_kelompok_belajar ( f key )
+- pernahPAUD (true,false)
+- jenis_koperasi (f key )
+
+jenis_koperasi
+- no
+- jenisKoperasi
+
+jenis_kelp_belajar
+- no
+- kelpBelajar
+
+status_kegiatan_warga
+- ID
+- pkk_individu ( f key )
+- pkk_kegiatan_warga ( f key )
+- status (boolean)
+- desc (text)
+- frekuensiPartisipasi (smallInt)
+- enumPeriodeKegiatan (enum)
+
+pkk_kegiatan_warga (f key)
+- no
+- kegiatanWarga

@@ -1,0 +1,71 @@
+individu
+
+- namaLengkap
+- NIK ( PRI )
+- jenisKelamin
+- tempatLahir
+- tanggalLahir
+- agama
+- capaianPendidikan (f key)
+- enumGolonganDarah (f key)
+- nomorKartuKeluarga (f key )
+
+keluarga_individu
+- individu ( f key )
+- enumPerkawinan
+- tanggalPerkawinan
+- namaAyah
+- namaIbu
+- HubunganDalamKeluarga ( f_key )
+- nomorPaspor
+- nomorKITAP
+
+kartu_keluarga
+- nomorKK (PRI)
+- alamat ( f key ) 
+- RT
+- RW
+
+alamat
+- id_alamat (PRI)
+- desa ( f key )
+- kabupaten ( f key )
+- kecamatan ( f key )
+- provinsi ( f key )
+- kode_pos
+
+desa
+- no 
+- namaDesa
+
+kabupaten
+- no
+- kabupaten
+ 
+kecamatan
+- no
+- kecamatan
+
+provinsi
+- no
+- kecamatan
+
+capaian_pendidikan
+- no
+- capaianPendidikan
+
+hub_keluarga
+- no
+- statusHubungan
+
+jenis_pekerjaan
+- no
+- pekerjaan
+
+golongan_darah
+- no
+- tipeDarah
+
+status_kewarnegaraan
+- no
+- status ( "kepalaKeluarga","isteri","anak" ) 

@@ -8,14 +8,14 @@ Yes, this app is for my exercise and for private use.
 ## Checklist
 
 ###  Research && Design
-- [] Research required information that need to be digitalized
-- [] Draft required table for database
-- [] Draft an ERD table
-- [] Draft an Use Case Diagram
-- [] Draft an Class Diagram
-- [] Draft an Activity Diagram
-- [] Draft an Web Application Architecture
+- [ ] Research required information that need to be digitalized
+- [ ] Draft required table for database
+- [ ] Draft an ERD table
+- [ ] Draft an Use Case Diagram
+- [ ] Draft an Class Diagram
+- [ ] Draft an Activity Diagram
+- [ ] Draft an Web Application Architecture
 
 ### Technical-ish
-- [] Research framework that work best for this project
-- [] Research
+- [ ] Research framework that work best for this project
+- [ ] Research ...
